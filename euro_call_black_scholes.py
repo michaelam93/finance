@@ -1,4 +1,4 @@
-# A simple program which uses the Black-Scholes model to calculates an indices European call option valuation at maturity by using a Monte Carlo simulation where an options risk factor obeys geometric Brownian motion
+# Monte Carlo Simulation of Black Scholes Model with Brownian Motion
 # Reference: Python for Finance by Yves Hilpisch (O’Reilly). Copyright 2015 Yves Hilpisch, 978-1-491-94528-5.
 
 from numpy import *
